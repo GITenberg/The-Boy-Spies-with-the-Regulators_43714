@@ -1,0 +1,37 @@
+_repo: The-Boy-Spies-with-the-Regulators_43714
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43714-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2013-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Spies -- Juvenile fiction'
+- !lcsh 'North Carolina -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Trials -- Juvenile fiction'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+title: "The Boy Spies with the Regulators\r\nThe Story of How the Boys Assisted the\
+  \ Carolina Patriots to Drive the British from That State"
+url: http://www.gutenberg.org/ebooks/43714
